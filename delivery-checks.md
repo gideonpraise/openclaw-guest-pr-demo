@@ -1,3 +1,3 @@
 # Delivery checks
 
-Check the street address and postcode before dispatch.
+Check the recipient name, street address, postcode, and destination country before dispatch.
