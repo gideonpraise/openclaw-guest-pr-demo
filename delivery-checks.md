@@ -1,3 +1,3 @@
 # Delivery checks
 
-Check the delivery address before dispatch.
+Check the recipient name and destination country before dispatch.
