@@ -1,2 +1,2 @@
 Shipment: SAMPLE-1030
-Status: ready
+Status: shipped
